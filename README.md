@@ -75,6 +75,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 - useReducer Hook
 - Bootstrap 5
 
-## License
 
-This project is for educational purposes.
