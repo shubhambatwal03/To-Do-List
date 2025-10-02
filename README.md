@@ -55,7 +55,7 @@ src/
 4. Open [http://localhost:5173](http://localhost:5173) in your browser to view the clock.
 
 ## Screenshots
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18565b96-97bd-469c-ad9a-365ca6cb99f7" />
 
 ## Usage
 
