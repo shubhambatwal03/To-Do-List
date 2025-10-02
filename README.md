@@ -1,6 +1,6 @@
-# Todo-App-v3
+# Todo-Do-List
 
-A simple and modern Todo application built with React. This version uses React Context and the `useReducer` hook for state management, allowing users to add and delete todo items with due dates.
+A simple and modern Todo application built with ReactJS. This version uses ReactJS Context and the `useReducer` hook for state management, allowing users to add and delete todo items with due dates.
 
 ## Features
 
@@ -34,21 +34,26 @@ src/
 - Node.js (v16 or above recommended)
 - npm or yarn
 
-### Installation
+## Getting Started
 
-1. Clone the repository or copy the project folder.
-2. Navigate to the project directory:
-
-   ```sh
-   cd "React JS/React-Projects/Todo-App-v3"
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/shubhambatwal03/To-Do-List.git
+   cd To-Do-List
    ```
 
-3. Install dependencies:
-
-   ```sh
+2. **Install dependencies:**
+   ```bash
    npm install
-   # or
-   yarn install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:5173](http://localhost:5173) in your browser to view the clock.
+
    ```
 
 ### Running the App
@@ -62,6 +67,9 @@ yarn dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
+
+## Screenshots
+
 
 ## Usage
 
