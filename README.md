@@ -54,18 +54,6 @@ src/
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser to view the clock.
 
-### Running the App
-
-Start the development server:
-
-```sh
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
-
 ## Screenshots
 
 
@@ -81,4 +69,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 - useReducer Hook
 - Bootstrap 5
 
-
+## License
